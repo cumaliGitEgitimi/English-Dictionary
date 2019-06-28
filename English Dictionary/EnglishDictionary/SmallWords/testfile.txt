@@ -1,0 +1,1227 @@
+Training with 10 neurons, alpha:0.1, dropout:False 
+delta after 10000 iterations:0.004941202978125803
+delta after 20000 iterations:0.003365842548316047
+delta after 30000 iterations:0.0026956074164651454
+delta after 40000 iterations:0.0023047432062285253
+delta after 50000 iterations:0.0020419482330447276
+delta after 60000 iterations:0.001850117374838566
+delta after 70000 iterations:0.0017023466264683303
+delta after 80000 iterations:0.0015841048363203845
+delta after 90000 iterations:0.0014867736307145971
+delta after 100000 iterations:0.001404879474059901
+Elearning1.txt
+evalu program input capac articl efectiven develop activ achiev help generali implement isu kind meaningl number onlin outcom planer purpos 
+ classification: [['Education', 0.9982206080002025]]
+------
+Elearning2.txt
+learn cours elearn work degr student univers type time schol requir option materi locat internet interact institut educ credit comput 
+ classification: [['Education', 0.9999757006645141]]
+------
+Elearning3 .txt
+cours onlin individu time way educ queri peopl schedul learn job clase beter atend comun clasrom question exam teacher 
+ classification: [['Education', 0.5852621498828746], ['Sports', 0.4608106552212648]]
+------
+Elearning4.txt
+student onlin time technolog suport stil proce peopl learn instructor exampl cours 
+ classification: [['Education', 0.5640544198216524], ['Sports', 0.4805894039329921]]
+------
+Elearning5.txt
+work time peopl learn distanceduc distanc cours coleg asign 
+ classification: [['Sports', 0.6509721073361532], ['Education', 0.38911806571204705]]
+------
+ElemantrySchool1.txt
+advantag schol languag time exampl prepar ned student face abil speak skil order life learn inform global get era educ 
+ classification: [['Education', 0.9999934224917729]]
+------
+ElemantrySchool2.txt
+educ student art level skil studi schol program problem music math health activ develop declin day cut clase children benefit 
+ classification: [['Education', 0.9999990199984269]]
+------
+ElemantrySchool3.txt
+student strategi skil day practic proce minut paper dificulti apropri compon knowledg idea help esay goal program reason recomend releas 
+ classification: [['Education', 0.9999585982589884]]
+------
+ElemantrySchool4.txt
+rece district children schedul result clasrom child break beter benefit afect activ question play perform minut learn kid imagin focu 
+ classification: [['Education', 0.9981137296304861]]
+------
+ElemantrySchool5.txt
+art schol teacher artist design curiculum creativ children artwork subject pupil oportun number math mater life leson learn time topic 
+ classification: [['Education', 0.9999458775957917]]
+------
+Gymnastics1.txt
+coach gymnast level nick perform strength beter basic baselin balanc audienc athlet area abil injuri inform help hand gym flexibl 
+ classification: [['Sports', 0.9999711299631124]]
+------
+Gymnastics2.txt
+flexibl research rang other order motion leap injuri inform gymnast bodi way thought strength split skil caus 
+ classification: [['Sports', 0.9990500218317719]]
+------
+Gymnastics3.txt
+gymnast children muscl exercis movement sport child brain bodi benefit beam bar balanc adult activ acquisit abil element develop cordin 
+ classification: [['Sports', 0.9989952524639668]]
+------
+Gymnastics4.txt
+strength hand end arm aproach agil combin ground eror height hors le leg male motion move ratio rhythm seri somersault 
+ classification: [['Education', 0.5533257196157806], ['Sports', 0.4418522782832056]]
+------
+Gymnastics5.txt
+injuri gymnast athlet cuf factor fix growth imping maner option review rotat shoulder strain surgeri syndrom complic age major train 
+ classification: [['Sports', 0.9990500218317719]]
+------
+Homeschooling1.txt
+kid educ home parent day children start schol respect import ned method mater learn help hand god experi everyth beter 
+ classification: [['Education', 0.9999988753662277]]
+------
+Homeschooling2.txt
+educ schol research year children atent america control conflict choic polici peopl parent movement literatur landscap knowledg insight homeschol home 
+ classification: [['Education', 0.9999955693043405]]
+------
+Homeschooling3.txt
+develop person homeschol imers le cost comun children aspect age advantag adult home hindranc focu fact experi environ educ learn 
+ classification: [['Education', 0.9999948952627555]]
+------
+Homeschooling4.txt
+team competit year wek time compet apolo task student robot program melvil lego leagu homeschol denmark 
+ classification: [['Education', 0.9999585982589884]]
+------
+Homeschooling5.txt
+home kid children schol schole year famili histori chore educ depart dad percent parent month mom math life karen juli 
+ classification: [['Education', 0.9999989281122587]]
+------
+Language2.txt
+peopl languag way ace someth softwar smartphon schol provid countri ap onlin leson learner interest guatemala fre educ use von 
+ classification: [['Education', 0.9980826171700661]]
+------
+Language3.txt
+languag profici program goal countri comun beter awaren aproach curiculum exposur platform object secondlanguag schol result knowledg skil speak target 
+ classification: [['Education', 0.9999415795344104]]
+------
+Language4.txt
+languag podcast episod your kep inspir im guest gramar format favourit expres cultur convers chanc bit ofer news rang there 
+ classification: [['Education', 0.9982303402296124]]
+------
+Language5.txt
+languag children child asign argument argu aproach adit curiculum complex disciplin difer definit discus display environ experi expr facilit form 
+ classification: [['Education', 0.9999388981650229]]
+------
+archery1.txt
+archeri type bow weight target recurv olymp longbow form distanc compound 
+ classification: [['Sports', 0.9983130876260654]]
+------
+archery2.txt
+archeri arow time area ad acord golf game form fod england egyptian efect distanc day cultur cricket comon cla bow 
+ classification: [['Sports', 0.9983130876260654]]
+------
+archery3.txt
+archeri step advanc leson learnarcherycom phase explain experi introduc begin instruct inform practic releas techniqu tip understand variat websit help 
+ classification: [['Sports', 0.9983130876260654]]
+------
+archery4.txt
+target shot eye concentr bul bow archeri 
+ classification: [['Sports', 0.9983130876260654]]
+------
+archery5.txt
+practic target archeri player perform other number mind henc god game form focu difer cours arm shot work train archer 
+ classification: [['Sports', 0.999970402633536]]
+------
+badminton1.txt
+bodi badminton sport play health automaticali 
+ classification: [['Sports', 0.999969762387587]]
+------
+badminton2.txt
+badminton bodi sport rate racquet player peopl muscl level kep help heart health flow blod improv 
+ classification: [['Sports', 0.9999987316267344]]
+------
+badminton4.txt
+sport badminton bodi play health player time comun bond muscl mobil heart benefit adit 
+ classification: [['Sports', 0.9999962403424306]]
+------
+badminton5.txt
+badminton muscl bodi racket work player tone sport shot rate benefit activ minut metabol leg help heart game fun fiber 
+ classification: [['Sports', 0.9999962403424306]]
+------
+bicycling1.txt
+generali trip relationship person influenc factor choic bicycl 
+ classification: [['Sports', 0.9988140228720459]]
+------
+bicycling2.txt
+life childhod diseas day time kep help health doctor schol result rest reason plan patient part mile crohn condit bodi 
+ classification: [['Education', 0.5533257196157806], ['Sports', 0.4418522782832056]]
+------
+bicycling3.txt
+citi bicycl road travel transport world use time stil portland cyclist copenhagen car bike automobil 
+ classification: [['Sports', 0.9988140228720459]]
+------
+bicycling4.txt
+bicycl phone car environ thing stret selfreli place other nois multitask life hostil hil gp email climat check cal bodi 
+ classification: [['Sports', 0.9988140228720459]]
+------
+bicycling5.txt
+fredom word ride paper mind govern day bicycl atack anyon 
+ classification: [['Sports', 0.9988140228720459]]
+------
+football1.txt
+council member reform coment complaint bodi ray problem plan organis muslim motion minor leter kidel kick jew game fsf fa 
+ classification: [['Education', 0.5533257196157806], ['Sports', 0.4418522782832056]]
+------
+football2.txt
+dart van gerwen world fotbal chang championship birth take sportsmail ron rockstar robin player play persi money michael mesi make 
+ classification: [['Sports', 0.9988095032156745]]
+------
+football3.txt
+jamaica mori team arena world thompson side panama march goalkep feilhab cup citi campaign 
+ classification: [['Education', 0.5533257196157806], ['Sports', 0.4418522782832056]]
+------
+football4.txt
+media england side rfu pre player mention member match manag le interest hospit hapen end director colin chelsea benefit aproach 
+ classification: [['Sports', 0.9988095032156745]]
+------
+football5.txt
+player tactic team play format style striker risk posit poses field defens cup bal atack asoci pase number midfield line 
+ classification: [['Sports', 0.9988095032156745]]
+------
+mathematics1.txt
+schol mathemat educ math standard student state scienc report mathematician knowledg grade goal faculti document develop curiculum content author aproach 
+ classification: [['Education', 0.9999984279031481]]
+------
+mathematics2.txt
+educ resourc site inform mathemat math internet page search student link level journal isu databas coverag clearinghous articl ace index 
+ classification: [['Education', 0.9999706848296862]]
+------
+mathematics3.txt
+student instruct math educ disabl aproach model state reform discoveri ace dificulti decad clasrom cla children ideia idea figur fact 
+ classification: [['Education', 0.9999947280759225]]
+------
+mathematics4.txt
+life childhod diseas day time kep help health doctor schol result rest reason plan patient part mile crohn condit bodi 
+ classification: [['Education', 0.5533257196157806], ['Sports', 0.4418522782832056]]
+------
+mathematics5.txt
+argument pork decis data contribut busin burgh area adult academi parti ofic level generali group gove rang statist subject univers 
+ classification: [['Sports', 0.9984082000364336]]
+------
+preschool1.txt
+student time children birthday test andersen advantag state parent morn month matur kindergartn kindergarten kid girl educ district cutof cla 
+ classification: [['Education', 0.9999983899715499]]
+------
+preschool3.txt
+educ research polici childhod journal univers topic teacher sourc reader public inform govern parent organ ofer nt depart cutingedg articl 
+ classification: [['Education', 0.9999769370579851]]
+------
+preschool4.txt
+children environ idea exampl activ develop curiculum council clasrom teach system research relationship question preschol learn knowledg teacher way understand 
+ classification: [['Education', 0.9981137296304861]]
+------
+preschool5.txt
+parent educ children year time son skil schol preschol other morn home 
+ classification: [['Education', 0.9999982301946166]]
+------
+scholarship1.txt
+scholarship type peopl achiev academ form gpa schol score basi award interest other time gift fund fulscholarship fre athlet agent 
+ classification: [['Sports', 0.5568030057169322], ['Education', 0.49104334899552265]]
+------
+scholarship2.txt
+coleg univers batlefield asumpt clase cours disciplin discoveri efort eye foundat gener god graduat law masachuset mcelroy measur member men 
+ classification: [['Education', 0.998408785020672]]
+------
+scholarship3.txt
+student program fund award check coleg scholarship state afair fal experi exchang europ depart deadlin comun languag list master member 
+ classification: [['Education', 0.9999979676797807]]
+------
+scholarship4.txt
+student institut scholarship educ faculti partnership outcom learn knowledg kind impact flourish field experi exampl evid condit carer atent atend 
+ classification: [['Education', 0.9999937807990472]]
+------
+scholarship5.txt
+scholarship student type tuition sourc part organ onlin individu fe educ difer coleg 
+ classification: [['Education', 0.9999970854525518]]
+------
+swimming1.txt
+water palm hand breaststrok recoveri practic posit phase bodi arm angl amount action outswep muscl movement motion mind master leg 
+ classification: [['Education', 0.5533257196157806], ['Sports', 0.4418522782832056]]
+------
+swimming2.txt
+swimer workout time swim set race practic pace meter endur dawn bodi 
+ classification: [['Education', 0.5533257196157806], ['Sports', 0.4418522782832056]]
+------
+swimming3.txt
+exercis research water univers time taner tanaka program presur peopl muscl graviti form air your way bodi benefit 
+ classification: [['Sports', 0.6626176415730546], ['Education', 0.34801663070382255]]
+------
+swimming4.txt
+sport met life your workout team swimer 
+ classification: [['Sports', 0.9982829387017125]]
+------
+swimming5.txt
+calori bodi benefit fitn emerson peopl muscl joint injuri term techniqu work weight reali workout sport way swime place recoveri 
+ classification: [['Sports', 0.999968387063039]]
+------
+tennis1.txt
+tsonga player set year world wimbledon tour time shot play peopl opon master game final feder doesnt court champion backhand 
+ classification: [['Sports', 0.9999525281360052]]
+------
+tennis2.txt
+drive stroke bodi court bal angl spin sidelin shoulder shot racquet posit line fot forehand 
+ classification: [['Education', 0.5533257196157806], ['Sports', 0.4418522782832056]]
+------
+tennis3.txt
+court player teni game varieti tournament sport size racket milion lawn bal 
+ classification: [['Sports', 0.9999983483582245]]
+------
+tennis4.txt
+system player teni sport rule cal inform bal ash arthur comput citi chair exampl hand introduct none noth problem profil 
+ classification: [['Sports', 0.999995767427593]]
+------
+tennis5.txt
+card year ca slam sharapova sanction rome return program player place month meldonium maria giudic feder face event drug draw 
+ classification: [['Sports', 0.7584364400982063], ['Education', 0.25083099205170184]]
+------
+Training with 10 neurons, alpha:0.1, dropout:False 
+delta after 10000 iterations:0.005153259037259242
+delta after 20000 iterations:0.0035148942617834445
+delta after 30000 iterations:0.002817024039177809
+delta after 40000 iterations:0.002409740488706756
+delta after 50000 iterations:0.002135758539038854
+delta after 60000 iterations:0.0019356777105950975
+delta after 70000 iterations:0.0017814992014367973
+delta after 80000 iterations:0.0016580946850059258
+delta after 90000 iterations:0.001556488682821593
+delta after 100000 iterations:0.001470979263179463
+Elearning1.txt
+evalu program input capac articl efectiven develop activ achiev help generali implement isu kind meaningl number onlin outcom planer purpos 
+ classification: [['Education', 0.9978967572319899]]
+------
+Elearning2.txt
+learn cours elearn work degr student univers type time schol requir option materi locat internet interact institut educ credit comput 
+ classification: [['Education', 0.9999555974463462]]
+------
+Elearning3 .txt
+cours onlin individu time way educ queri peopl schedul learn job clase beter atend comun clasrom question exam teacher 
+ classification: [['Education', 0.6973689855690991], ['Sports', 0.29013862745703867]]
+------
+Elearning4.txt
+student onlin time technolog suport stil proce peopl learn instructor exampl cours 
+ classification: [['Education', 0.7385035884936375], ['Sports', 0.22000818995319119]]
+------
+Elearning5.txt
+work time peopl learn distanceduc distanc cours coleg asign 
+ classification: [['Education', 0.5450196410527756], ['Sports', 0.40300255464108636]]
+------
+ElemantrySchool1.txt
+advantag schol languag time exampl prepar ned student face abil speak skil order life learn inform global get era educ 
+ classification: [['Education', 0.9999899611037311]]
+------
+ElemantrySchool2.txt
+educ student art level skil studi schol program problem music math health activ develop declin day cut clase children benefit 
+ classification: [['Education', 0.9999894542502338]]
+------
+ElemantrySchool3.txt
+student strategi skil day practic proce minut paper dificulti apropri compon knowledg idea help esay goal program reason recomend releas 
+ classification: [['Education', 0.9999098803990449]]
+------
+ElemantrySchool4.txt
+rece district children schedul result clasrom child break beter benefit afect activ question play perform minut learn kid imagin focu 
+ classification: [['Education', 0.9980482508916925]]
+------
+ElemantrySchool5.txt
+art schol teacher artist design curiculum creativ children artwork subject pupil oportun number math mater life leson learn time topic 
+ classification: [['Education', 0.999887395808969]]
+------
+Gymnastics1.txt
+coach gymnast level nick perform strength beter basic baselin balanc audienc athlet area abil injuri inform help hand gym flexibl 
+ classification: [['Sports', 0.9999296856134687]]
+------
+Gymnastics2.txt
+flexibl research rang other order motion leap injuri inform gymnast bodi way thought strength split skil caus 
+ classification: [['Sports', 0.9989825932714541]]
+------
+Gymnastics3.txt
+gymnast children muscl exercis movement sport child brain bodi benefit beam bar balanc adult activ acquisit abil element develop cordin 
+ classification: [['Sports', 0.9987012244836553]]
+------
+Gymnastics4.txt
+strength hand end arm aproach agil combin ground eror height hors le leg male motion move ratio rhythm seri somersault 
+ classification: [['Sports', 0.5123380447483987], ['Education', 0.48329673295112086]]
+------
+Gymnastics5.txt
+injuri gymnast athlet cuf factor fix growth imping maner option review rotat shoulder strain surgeri syndrom complic age major train 
+ classification: [['Sports', 0.9989825932714541]]
+------
+Homeschooling1.txt
+kid educ home parent day children start schol respect import ned method mater learn help hand god experi everyth beter 
+ classification: [['Education', 0.9999931075968325]]
+------
+Homeschooling2.txt
+educ schol research year children atent america control conflict choic polici peopl parent movement literatur landscap knowledg insight homeschol home 
+ classification: [['Education', 0.9999858189472413]]
+------
+Homeschooling3.txt
+develop person homeschol imers le cost comun children aspect age advantag adult home hindranc focu fact experi environ educ learn 
+ classification: [['Education', 0.9999821366667735]]
+------
+Homeschooling4.txt
+team competit year wek time compet apolo task student robot program melvil lego leagu homeschol denmark 
+ classification: [['Education', 0.9999098803990449]]
+------
+Homeschooling5.txt
+home kid children schol schole year famili histori chore educ depart dad percent parent month mom math life karen juli 
+ classification: [['Education', 0.9999936673154722]]
+------
+Language2.txt
+peopl languag way ace someth softwar smartphon schol provid countri ap onlin leson learner interest guatemala fre educ use von 
+ classification: [['Education', 0.9990517655398758]]
+------
+Language3.txt
+languag profici program goal countri comun beter awaren aproach curiculum exposur platform object secondlanguag schol result knowledg skil speak target 
+ classification: [['Education', 0.999929268614122]]
+------
+Language4.txt
+languag podcast episod your kep inspir im guest gramar format favourit expres cultur convers chanc bit ofer news rang there 
+ classification: [['Education', 0.9982864597178529]]
+------
+Language5.txt
+languag children child asign argument argu aproach adit curiculum complex disciplin difer definit discus display environ experi expr facilit form 
+ classification: [['Education', 0.9999432862229771]]
+------
+archery1.txt
+archeri type bow weight target recurv olymp longbow form distanc compound 
+ classification: [['Sports', 0.9983847523885762]]
+------
+archery2.txt
+archeri arow time area ad acord golf game form fod england egyptian efect distanc day cultur cricket comon cla bow 
+ classification: [['Sports', 0.9983847523885762]]
+------
+archery3.txt
+archeri step advanc leson learnarcherycom phase explain experi introduc begin instruct inform practic releas techniqu tip understand variat websit help 
+ classification: [['Sports', 0.9983847523885762]]
+------
+archery4.txt
+target shot eye concentr bul bow archeri 
+ classification: [['Sports', 0.9983847523885762]]
+------
+archery5.txt
+practic target archeri player perform other number mind henc god game form focu difer cours arm shot work train archer 
+ classification: [['Sports', 0.9999386894311683]]
+------
+badminton1.txt
+bodi badminton sport play health automaticali 
+ classification: [['Sports', 0.999942185414404]]
+------
+badminton2.txt
+badminton bodi sport rate racquet player peopl muscl level kep help heart health flow blod improv 
+ classification: [['Sports', 0.9999942191597088]]
+------
+badminton4.txt
+sport badminton bodi play health player time comun bond muscl mobil heart benefit adit 
+ classification: [['Sports', 0.9999810100158916]]
+------
+badminton5.txt
+badminton muscl bodi racket work player tone sport shot rate benefit activ minut metabol leg help heart game fun fiber 
+ classification: [['Sports', 0.9999810100158916]]
+------
+bicycling1.txt
+generali trip relationship person influenc factor choic bicycl 
+ classification: [['Sports', 0.9986106026796623]]
+------
+bicycling2.txt
+life childhod diseas day time kep help health doctor schol result rest reason plan patient part mile crohn condit bodi 
+ classification: [['Sports', 0.5123380447483987], ['Education', 0.48329673295112086]]
+------
+bicycling3.txt
+citi bicycl road travel transport world use time stil portland cyclist copenhagen car bike automobil 
+ classification: [['Sports', 0.9986106026796623]]
+------
+bicycling4.txt
+bicycl phone car environ thing stret selfreli place other nois multitask life hostil hil gp email climat check cal bodi 
+ classification: [['Sports', 0.9986106026796623]]
+------
+bicycling5.txt
+fredom word ride paper mind govern day bicycl atack anyon 
+ classification: [['Sports', 0.9986106026796623]]
+------
+football1.txt
+council member reform coment complaint bodi ray problem plan organis muslim motion minor leter kidel kick jew game fsf fa 
+ classification: [['Sports', 0.5123380447483987], ['Education', 0.48329673295112086]]
+------
+football2.txt
+dart van gerwen world fotbal chang championship birth take sportsmail ron rockstar robin player play persi money michael mesi make 
+ classification: [['Sports', 0.998508305318706]]
+------
+football3.txt
+jamaica mori team arena world thompson side panama march goalkep feilhab cup citi campaign 
+ classification: [['Sports', 0.5123380447483987], ['Education', 0.48329673295112086]]
+------
+football4.txt
+media england side rfu pre player mention member match manag le interest hospit hapen end director colin chelsea benefit aproach 
+ classification: [['Sports', 0.998508305318706]]
+------
+football5.txt
+player tactic team play format style striker risk posit poses field defens cup bal atack asoci pase number midfield line 
+ classification: [['Sports', 0.998508305318706]]
+------
+mathematics1.txt
+schol mathemat educ math standard student state scienc report mathematician knowledg grade goal faculti document develop curiculum content author aproach 
+ classification: [['Education', 0.9999913751734968]]
+------
+mathematics2.txt
+educ resourc site inform mathemat math internet page search student link level journal isu databas coverag clearinghous articl ace index 
+ classification: [['Education', 0.9998981819774744]]
+------
+mathematics3.txt
+student instruct math educ disabl aproach model state reform discoveri ace dificulti decad clasrom cla children ideia idea figur fact 
+ classification: [['Education', 0.9999617399661139]]
+------
+mathematics4.txt
+life childhod diseas day time kep help health doctor schol result rest reason plan patient part mile crohn condit bodi 
+ classification: [['Sports', 0.5123380447483987], ['Education', 0.48329673295112086]]
+------
+mathematics5.txt
+argument pork decis data contribut busin burgh area adult academi parti ofic level generali group gove rang statist subject univers 
+ classification: [['Sports', 0.9981481024335697]]
+------
+preschool1.txt
+student time children birthday test andersen advantag state parent morn month matur kindergartn kindergarten kid girl educ district cutof cla 
+ classification: [['Education', 0.9999931805532801]]
+------
+preschool3.txt
+educ research polici childhod journal univers topic teacher sourc reader public inform govern parent organ ofer nt depart cutingedg articl 
+ classification: [['Education', 0.9999650196095826]]
+------
+preschool4.txt
+children environ idea exampl activ develop curiculum council clasrom teach system research relationship question preschol learn knowledg teacher way understand 
+ classification: [['Education', 0.9980482508916925]]
+------
+preschool5.txt
+parent educ children year time son skil schol preschol other morn home 
+ classification: [['Education', 0.9999928422617256]]
+------
+scholarship1.txt
+scholarship type peopl achiev academ form gpa schol score basi award interest other time gift fund fulscholarship fre athlet agent 
+ classification: [['Education', 0.6144892153936958], ['Sports', 0.3621814229596737]]
+------
+scholarship2.txt
+coleg univers batlefield asumpt clase cours disciplin discoveri efort eye foundat gener god graduat law masachuset mcelroy measur member men 
+ classification: [['Education', 0.9981202792930284]]
+------
+scholarship3.txt
+student program fund award check coleg scholarship state afair fal experi exchang europ depart deadlin comun languag list master member 
+ classification: [['Education', 0.9999964599219515]]
+------
+scholarship4.txt
+student institut scholarship educ faculti partnership outcom learn knowledg kind impact flourish field experi exampl evid condit carer atent atend 
+ classification: [['Education', 0.9999901204774517]]
+------
+scholarship5.txt
+scholarship student type tuition sourc part organ onlin individu fe educ difer coleg 
+ classification: [['Education', 0.9999934767453124]]
+------
+swimming1.txt
+water palm hand breaststrok recoveri practic posit phase bodi arm angl amount action outswep muscl movement motion mind master leg 
+ classification: [['Sports', 0.5123380447483987], ['Education', 0.48329673295112086]]
+------
+swimming2.txt
+swimer workout time swim set race practic pace meter endur dawn bodi 
+ classification: [['Sports', 0.5123380447483987], ['Education', 0.48329673295112086]]
+------
+swimming3.txt
+exercis research water univers time taner tanaka program presur peopl muscl graviti form air your way bodi benefit 
+ classification: [['Education', 0.5385906745547274], ['Sports', 0.38990914906937646]]
+------
+swimming4.txt
+sport met life your workout team swimer 
+ classification: [['Sports', 0.998077338377452]]
+------
+swimming5.txt
+calori bodi benefit fitn emerson peopl muscl joint injuri term techniqu work weight reali workout sport way swime place recoveri 
+ classification: [['Sports', 0.9999306113095168]]
+------
+tennis1.txt
+tsonga player set year world wimbledon tour time shot play peopl opon master game final feder doesnt court champion backhand 
+ classification: [['Sports', 0.9999041214139419]]
+------
+tennis2.txt
+drive stroke bodi court bal angl spin sidelin shoulder shot racquet posit line fot forehand 
+ classification: [['Sports', 0.5123380447483987], ['Education', 0.48329673295112086]]
+------
+tennis3.txt
+court player teni game varieti tournament sport size racket milion lawn bal 
+ classification: [['Sports', 0.9999773153815118]]
+------
+tennis4.txt
+system player teni sport rule cal inform bal ash arthur comput citi chair exampl hand introduct none noth problem profil 
+ classification: [['Sports', 0.9999635670562232]]
+------
+tennis5.txt
+card year ca slam sharapova sanction rome return program player place month meldonium maria giudic feder face event drug draw 
+ classification: [['Sports', 0.6179264488761853], ['Education', 0.3251062652987048]]
+------
+Training with 10 neurons, alpha:0.1, dropout:False 
+delta after 10000 iterations:0.004978875833858721
+delta after 20000 iterations:0.0033932634320737844
+delta after 30000 iterations:0.002718364920223219
+delta after 40000 iterations:0.0023246861100235062
+delta after 50000 iterations:0.0020599529330009242
+delta after 60000 iterations:0.001866680674039793
+delta after 70000 iterations:0.0017177824473965173
+delta after 80000 iterations:0.001598626631712035
+delta after 90000 iterations:0.0015005344321299531
+delta after 100000 iterations:0.001417993483413176
+Elearning1.txt
+evalu program input capac articl efectiven develop activ achiev help generali implement isu kind meaningl number onlin outcom planer purpos 
+ classification: [['Education', 0.9983588149945685]]
+------
+Elearning2.txt
+learn cours elearn work degr student univers type time schol requir option materi locat internet interact institut educ credit comput 
+ classification: [['Education', 0.999976035653261]]
+------
+Elearning3 .txt
+cours onlin individu time way educ queri peopl schedul learn job clase beter atend comun clasrom question exam teacher 
+ classification: [['Education', 0.6686253943657469], ['Sports', 0.4046678146344841]]
+------
+Elearning4.txt
+student onlin time technolog suport stil proce peopl learn instructor exampl cours 
+ classification: [['Education', 0.6773321617035689], ['Sports', 0.36993456208058934]]
+------
+Elearning5.txt
+work time peopl learn distanceduc distanc cours coleg asign 
+ classification: [['Sports', 0.5857711925162052], ['Education', 0.431455637758958]]
+------
+ElemantrySchool1.txt
+advantag schol languag time exampl prepar ned student face abil speak skil order life learn inform global get era educ 
+ classification: [['Education', 0.9999939864873187]]
+------
+ElemantrySchool2.txt
+educ student art level skil studi schol program problem music math health activ develop declin day cut clase children benefit 
+ classification: [['Education', 0.9999963556659267]]
+------
+ElemantrySchool3.txt
+student strategi skil day practic proce minut paper dificulti apropri compon knowledg idea help esay goal program reason recomend releas 
+ classification: [['Education', 0.999957468646854]]
+------
+ElemantrySchool4.txt
+rece district children schedul result clasrom child break beter benefit afect activ question play perform minut learn kid imagin focu 
+ classification: [['Education', 0.9984902588415534]]
+------
+ElemantrySchool5.txt
+art schol teacher artist design curiculum creativ children artwork subject pupil oportun number math mater life leson learn time topic 
+ classification: [['Education', 0.999966536037834]]
+------
+Gymnastics1.txt
+coach gymnast level nick perform strength beter basic baselin balanc audienc athlet area abil injuri inform help hand gym flexibl 
+ classification: [['Sports', 0.9999566289735478]]
+------
+Gymnastics2.txt
+flexibl research rang other order motion leap injuri inform gymnast bodi way thought strength split skil caus 
+ classification: [['Sports', 0.9988541315508058]]
+------
+Gymnastics3.txt
+gymnast children muscl exercis movement sport child brain bodi benefit beam bar balanc adult activ acquisit abil element develop cordin 
+ classification: [['Sports', 0.998986606327691]]
+------
+Gymnastics4.txt
+strength hand end arm aproach agil combin ground eror height hors le leg male motion move ratio rhythm seri somersault 
+ classification: [['Education', 0.5350901824638771], ['Sports', 0.4592638005362948]]
+------
+Gymnastics5.txt
+injuri gymnast athlet cuf factor fix growth imping maner option review rotat shoulder strain surgeri syndrom complic age major train 
+ classification: [['Sports', 0.9988541315508058]]
+------
+Homeschooling1.txt
+kid educ home parent day children start schol respect import ned method mater learn help hand god experi everyth beter 
+ classification: [['Education', 0.9999981214897494]]
+------
+Homeschooling2.txt
+educ schol research year children atent america control conflict choic polici peopl parent movement literatur landscap knowledg insight homeschol home 
+ classification: [['Education', 0.9999943207746573]]
+------
+Homeschooling3.txt
+develop person homeschol imers le cost comun children aspect age advantag adult home hindranc focu fact experi environ educ learn 
+ classification: [['Education', 0.9999949963643201]]
+------
+Homeschooling4.txt
+team competit year wek time compet apolo task student robot program melvil lego leagu homeschol denmark 
+ classification: [['Education', 0.999957468646854]]
+------
+Homeschooling5.txt
+home kid children schol schole year famili histori chore educ depart dad percent parent month mom math life karen juli 
+ classification: [['Education', 0.9999975859316388]]
+------
+Language2.txt
+peopl languag way ace someth softwar smartphon schol provid countri ap onlin leson learner interest guatemala fre educ use von 
+ classification: [['Education', 0.998544082287636]]
+------
+Language3.txt
+languag profici program goal countri comun beter awaren aproach curiculum exposur platform object secondlanguag schol result knowledg skil speak target 
+ classification: [['Education', 0.9999465122600311]]
+------
+Language4.txt
+languag podcast episod your kep inspir im guest gramar format favourit expres cultur convers chanc bit ofer news rang there 
+ classification: [['Education', 0.9982409902665955]]
+------
+Language5.txt
+languag children child asign argument argu aproach adit curiculum complex disciplin difer definit discus display environ experi expr facilit form 
+ classification: [['Education', 0.9999601686066788]]
+------
+archery1.txt
+archeri type bow weight target recurv olymp longbow form distanc compound 
+ classification: [['Sports', 0.99798773236566]]
+------
+archery2.txt
+archeri arow time area ad acord golf game form fod england egyptian efect distanc day cultur cricket comon cla bow 
+ classification: [['Sports', 0.99798773236566]]
+------
+archery3.txt
+archeri step advanc leson learnarcherycom phase explain experi introduc begin instruct inform practic releas techniqu tip understand variat websit help 
+ classification: [['Sports', 0.99798773236566]]
+------
+archery4.txt
+target shot eye concentr bul bow archeri 
+ classification: [['Sports', 0.99798773236566]]
+------
+archery5.txt
+practic target archeri player perform other number mind henc god game form focu difer cours arm shot work train archer 
+ classification: [['Sports', 0.9999420756634564]]
+------
+badminton1.txt
+bodi badminton sport play health automaticali 
+ classification: [['Sports', 0.9999534204984213]]
+------
+badminton2.txt
+badminton bodi sport rate racquet player peopl muscl level kep help heart health flow blod improv 
+ classification: [['Sports', 0.9999973007261783]]
+------
+badminton4.txt
+sport badminton bodi play health player time comun bond muscl mobil heart benefit adit 
+ classification: [['Sports', 0.9999913965428555]]
+------
+badminton5.txt
+badminton muscl bodi racket work player tone sport shot rate benefit activ minut metabol leg help heart game fun fiber 
+ classification: [['Sports', 0.9999913965428555]]
+------
+bicycling1.txt
+generali trip relationship person influenc factor choic bicycl 
+ classification: [['Sports', 0.9987246412555454]]
+------
+bicycling2.txt
+life childhod diseas day time kep help health doctor schol result rest reason plan patient part mile crohn condit bodi 
+ classification: [['Education', 0.5350901824638771], ['Sports', 0.4592638005362948]]
+------
+bicycling3.txt
+citi bicycl road travel transport world use time stil portland cyclist copenhagen car bike automobil 
+ classification: [['Sports', 0.9987246412555454]]
+------
+bicycling4.txt
+bicycl phone car environ thing stret selfreli place other nois multitask life hostil hil gp email climat check cal bodi 
+ classification: [['Sports', 0.9987246412555454]]
+------
+bicycling5.txt
+fredom word ride paper mind govern day bicycl atack anyon 
+ classification: [['Sports', 0.9987246412555454]]
+------
+football1.txt
+council member reform coment complaint bodi ray problem plan organis muslim motion minor leter kidel kick jew game fsf fa 
+ classification: [['Education', 0.5350901824638771], ['Sports', 0.4592638005362948]]
+------
+football2.txt
+dart van gerwen world fotbal chang championship birth take sportsmail ron rockstar robin player play persi money michael mesi make 
+ classification: [['Sports', 0.9986133703790877]]
+------
+football3.txt
+jamaica mori team arena world thompson side panama march goalkep feilhab cup citi campaign 
+ classification: [['Education', 0.5350901824638771], ['Sports', 0.4592638005362948]]
+------
+football4.txt
+media england side rfu pre player mention member match manag le interest hospit hapen end director colin chelsea benefit aproach 
+ classification: [['Sports', 0.9986133703790877]]
+------
+football5.txt
+player tactic team play format style striker risk posit poses field defens cup bal atack asoci pase number midfield line 
+ classification: [['Sports', 0.9986133703790877]]
+------
+mathematics1.txt
+schol mathemat educ math standard student state scienc report mathematician knowledg grade goal faculti document develop curiculum content author aproach 
+ classification: [['Education', 0.9999966249618935]]
+------
+mathematics2.txt
+educ resourc site inform mathemat math internet page search student link level journal isu databas coverag clearinghous articl ace index 
+ classification: [['Education', 0.9999232651523139]]
+------
+mathematics3.txt
+student instruct math educ disabl aproach model state reform discoveri ace dificulti decad clasrom cla children ideia idea figur fact 
+ classification: [['Education', 0.9999943793254104]]
+------
+mathematics4.txt
+life childhod diseas day time kep help health doctor schol result rest reason plan patient part mile crohn condit bodi 
+ classification: [['Education', 0.5350901824638771], ['Sports', 0.4592638005362948]]
+------
+mathematics5.txt
+argument pork decis data contribut busin burgh area adult academi parti ofic level generali group gove rang statist subject univers 
+ classification: [['Sports', 0.9982461379933686]]
+------
+preschool1.txt
+student time children birthday test andersen advantag state parent morn month matur kindergartn kindergarten kid girl educ district cutof cla 
+ classification: [['Education', 0.9999975720965614]]
+------
+preschool3.txt
+educ research polici childhod journal univers topic teacher sourc reader public inform govern parent organ ofer nt depart cutingedg articl 
+ classification: [['Education', 0.9999640947186091]]
+------
+preschool4.txt
+children environ idea exampl activ develop curiculum council clasrom teach system research relationship question preschol learn knowledg teacher way understand 
+ classification: [['Education', 0.9984902588415534]]
+------
+preschool5.txt
+parent educ children year time son skil schol preschol other morn home 
+ classification: [['Education', 0.9999966975761893]]
+------
+scholarship1.txt
+scholarship type peopl achiev academ form gpa schol score basi award interest other time gift fund fulscholarship fre athlet agent 
+ classification: [['Sports', 0.5193753467248039], ['Education', 0.4851457077451731]]
+------
+scholarship2.txt
+coleg univers batlefield asumpt clase cours disciplin discoveri efort eye foundat gener god graduat law masachuset mcelroy measur member men 
+ classification: [['Education', 0.998137962718111]]
+------
+scholarship3.txt
+student program fund award check coleg scholarship state afair fal experi exchang europ depart deadlin comun languag list master member 
+ classification: [['Education', 0.9999984507566607]]
+------
+scholarship4.txt
+student institut scholarship educ faculti partnership outcom learn knowledg kind impact flourish field experi exampl evid condit carer atent atend 
+ classification: [['Education', 0.9999970736016441]]
+------
+scholarship5.txt
+scholarship student type tuition sourc part organ onlin individu fe educ difer coleg 
+ classification: [['Education', 0.9999982753120993]]
+------
+swimming1.txt
+water palm hand breaststrok recoveri practic posit phase bodi arm angl amount action outswep muscl movement motion mind master leg 
+ classification: [['Education', 0.5350901824638771], ['Sports', 0.4592638005362948]]
+------
+swimming2.txt
+swimer workout time swim set race practic pace meter endur dawn bodi 
+ classification: [['Education', 0.5350901824638771], ['Sports', 0.4592638005362948]]
+------
+swimming3.txt
+exercis research water univers time taner tanaka program presur peopl muscl graviti form air your way bodi benefit 
+ classification: [['Sports', 0.6137825977486714], ['Education', 0.4558114308952869]]
+------
+swimming4.txt
+sport met life your workout team swimer 
+ classification: [['Sports', 0.9982214474451927]]
+------
+swimming5.txt
+calori bodi benefit fitn emerson peopl muscl joint injuri term techniqu work weight reali workout sport way swime place recoveri 
+ classification: [['Sports', 0.99992797121846]]
+------
+tennis1.txt
+tsonga player set year world wimbledon tour time shot play peopl opon master game final feder doesnt court champion backhand 
+ classification: [['Sports', 0.9999332421302355]]
+------
+tennis2.txt
+drive stroke bodi court bal angl spin sidelin shoulder shot racquet posit line fot forehand 
+ classification: [['Education', 0.5350901824638771], ['Sports', 0.4592638005362948]]
+------
+tennis3.txt
+court player teni game varieti tournament sport size racket milion lawn bal 
+ classification: [['Sports', 0.999997230597224]]
+------
+tennis4.txt
+system player teni sport rule cal inform bal ash arthur comput citi chair exampl hand introduct none noth problem profil 
+ classification: [['Sports', 0.9999924818580267]]
+------
+tennis5.txt
+card year ca slam sharapova sanction rome return program player place month meldonium maria giudic feder face event drug draw 
+ classification: [['Sports', 0.6592871823163711], ['Education', 0.34850067296905457]]
+------
+Training with 10 neurons, alpha:0.1, dropout:False 
+delta after 10000 iterations:0.004899903445359945
+Training with 10 neurons, alpha:0.1, dropout:False 
+delta after 10000 iterations:0.003002903131325463
+delta after 20000 iterations:0.0020942722239163936
+delta after 30000 iterations:0.001696704360756529
+delta after 40000 iterations:0.0014614815113340395
+delta after 50000 iterations:0.0013018259490227223
+delta after 60000 iterations:0.0011844723593624983
+delta after 70000 iterations:0.00109358252463283
+delta after 80000 iterations:0.0010205344197051936
+delta after 90000 iterations:0.0009601823596081472
+delta after 100000 iterations:0.0009092415070131976
+archery1.txt
+archeri type target distanc bow weight recurv olymp longbow form compound 
+ classification: [['Education', 0.9993010373991791]]
+------
+archery2.txt
+archeri bc art arow area cla day cultur cricket england egyptian efect acord golf game head hunter interfer jame king 
+ classification: [['Education', 0.9993010373991791]]
+------
+archery3.txt
+archeri step inform learnarcherycom explain variat techniqu skil leson instruct number advanc experi introduc phase practic releas tip understand websit 
+ classification: [['Education', 0.9993010373991791]]
+------
+archery4.txt
+target shot eye concentr bul bow archeri 
+ classification: [['Education', 0.9993010373991791]]
+------
+archery5.txt
+shot target practic archeri henc god game form focu difer cours arm archer player perform other number work train mind 
+ classification: [['Education', 0.9991838687589764]]
+------
+badminton1.txt
+bodi badminton sport play health automaticali 
+ classification: [['Education', 0.9993010373991791]]
+------
+badminton2.txt
+badminton player sport bodi health muscl level kep improv help rate racquet peopl heart flow blod 
+ classification: [['Education', 0.9983284491519306]]
+------
+badminton4.txt
+sport badminton player health comun bond adit benefit time play muscl mobil heart bodi 
+ classification: [['Education', 0.9984596236690214]]
+------
+badminton5.txt
+badminton muscl leg bodi fiber weight work help heart game fun benefit activ minut metabol exercis court tone sport shot 
+ classification: [['Education', 0.9993010373991791]]
+------
+Training with 10 neurons, alpha:0.1, dropout:False 
+delta after 10000 iterations:0.002981565599833952
+delta after 20000 iterations:0.0020787839828585895
+delta after 30000 iterations:0.0016839247713988203
+delta after 40000 iterations:0.0014503542997522656
+delta after 50000 iterations:0.0012918431701545053
+delta after 60000 iterations:0.0011753432343257098
+delta after 70000 iterations:0.001085122069182265
+delta after 80000 iterations:0.0010126162581534093
+delta after 90000 iterations:0.0009527155873711723
+delta after 100000 iterations:0.000902158126775926
+archery1.txt
+archeri type target distanc bow weight recurv olymp longbow form compound 
+ classification: [['Education', 0.9992866057098091]]
+------
+archery2.txt
+archeri bc art arow area cla day cultur cricket england egyptian efect acord golf game head hunter interfer jame king 
+ classification: [['Education', 0.9992866057098091]]
+------
+archery3.txt
+archeri step inform learnarcherycom explain variat techniqu skil leson instruct number advanc experi introduc phase practic releas tip understand websit 
+ classification: [['Education', 0.9992866057098091]]
+------
+archery4.txt
+target shot eye concentr bul bow archeri 
+ classification: [['Education', 0.9992866057098091]]
+------
+archery5.txt
+shot target practic archeri henc god game form focu difer cours arm archer player perform other number work train mind 
+ classification: [['Education', 0.9998490946444517]]
+------
+badminton1.txt
+bodi badminton sport play health automaticali 
+ classification: [['Education', 0.9992866057098091]]
+------
+badminton2.txt
+badminton player sport bodi health muscl level kep improv help rate racquet peopl heart flow blod 
+ classification: [['Education', 0.9994773228906981]]
+------
+badminton4.txt
+sport badminton player health comun bond adit benefit time play muscl mobil heart bodi 
+ classification: [['Education', 0.9984477820022852]]
+------
+badminton5.txt
+badminton muscl leg bodi fiber weight work help heart game fun benefit activ minut metabol exercis court tone sport shot 
+ classification: [['Education', 0.9992866057098091]]
+------
+Training with 10 neurons, alpha:0.1, dropout:False 
+delta after 10000 iterations:0.0050597790884964805
+delta after 20000 iterations:0.003455057692491917
+delta after 30000 iterations:0.0027712165666523895
+delta after 40000 iterations:0.0023719603068572946
+delta after 50000 iterations:0.0021032851204051653
+delta after 60000 iterations:0.0019070201513370038
+delta after 70000 iterations:0.0017557414061564252
+delta after 80000 iterations:0.0016346286234922248
+delta after 90000 iterations:0.0015348876767686502
+delta after 100000 iterations:0.0014509309909118782
+Training with 10 neurons, alpha:0.1, dropout:False 
+delta after 10000 iterations:0.0050597790884964805
+delta after 20000 iterations:0.003455057692491917
+delta after 30000 iterations:0.0027712165666523895
+delta after 40000 iterations:0.0023719603068572946
+delta after 50000 iterations:0.0021032851204051653
+delta after 60000 iterations:0.0019070201513370038
+delta after 70000 iterations:0.0017557414061564252
+delta after 80000 iterations:0.0016346286234922248
+delta after 90000 iterations:0.0015348876767686502
+delta after 100000 iterations:0.0014509309909118782
+Elearning1.txt
+evalu program input capac articl efectiven develop activ achiev help generali implement isu kind meaningl number onlin outcom planer purpos 
+ classification: [['Education', 0.9982306783668498]]
+------
+Elearning1.txt
+evalu program input capac articl efectiven develop activ achiev help generali implement isu kind meaningl number onlin outcom planer purpos 
+ classification: [['Education', 0.9982306783668498]]
+------
+Elearning2.txt
+learn cours elearn work degr student univers type time schol requir option materi locat internet interact institut educ credit comput 
+ classification: [['Education', 0.9999520687721472]]
+------
+Elearning3 .txt
+cours onlin individu time way educ queri peopl schedul learn job clase beter atend comun clasrom question exam teacher 
+ classification: [['Education', 0.6559675984968207], ['Sports', 0.34271282446167506]]
+------
+Elearning4.txt
+student onlin time technolog suport stil proce peopl learn instructor exampl cours 
+ classification: [['Education', 0.675388903214104], ['Sports', 0.288703148240268]]
+------
+Elearning5.txt
+work time peopl learn distanceduc distanc cours coleg asign 
+ classification: [['Sports', 0.48662932794567465], ['Education', 0.4506841591668821]]
+------
+ElemantrySchool1.txt
+advantag schol languag time exampl prepar ned student face abil speak skil order life learn inform global get era educ 
+ classification: [['Education', 0.9999824297717503]]
+------
+ElemantrySchool2.txt
+educ student art level skil studi schol program problem music math health activ develop declin day cut clase children benefit 
+ classification: [['Education', 0.9999855540196855]]
+------
+ElemantrySchool3.txt
+student strategi skil day practic proce minut paper dificulti apropri compon knowledg idea help esay goal program reason recomend releas 
+ classification: [['Education', 0.9999110677482762]]
+------
+ElemantrySchool4.txt
+rece district children schedul result clasrom child break beter benefit afect activ question play perform minut learn kid imagin focu 
+ classification: [['Education', 0.515723424208184], ['Sports', 0.4822291221878405]]
+------
+ElemantrySchool5.txt
+art schol teacher artist design curiculum creativ children artwork subject pupil oportun number math mater life leson learn time topic 
+ classification: [['Education', 0.9986617812583641]]
+------
+Gymnastics1.txt
+coach gymnast level nick perform strength beter basic baselin balanc audienc athlet area abil injuri inform help hand gym flexibl 
+ classification: [['Sports', 0.9999445747635601]]
+------
+Gymnastics2.txt
+flexibl research rang other order motion leap injuri inform gymnast bodi way thought strength split skil caus 
+ classification: [['Sports', 0.9989253495092075]]
+------
+Gymnastics3.txt
+gymnast children muscl exercis movement sport child brain bodi benefit beam bar balanc adult activ acquisit abil element develop cordin 
+ classification: [['Sports', 0.9999555703752939]]
+------
+Gymnastics4.txt
+strength hand end arm aproach agil combin ground eror height hors le leg male motion move ratio rhythm seri somersault 
+ classification: [['Education', 0.515723424208184], ['Sports', 0.4822291221878405]]
+------
+Gymnastics5.txt
+injuri gymnast athlet cuf factor fix growth imping maner option review rotat shoulder strain surgeri syndrom complic age major train 
+ classification: [['Sports', 0.9989253495092075]]
+------
+Homeschooling1.txt
+kid educ home parent day children start schol respect import ned method mater learn help hand god experi everyth beter 
+ classification: [['Education', 0.9999881171474515]]
+------
+Homeschooling2.txt
+educ schol research year children atent america control conflict choic polici peopl parent movement literatur landscap knowledg insight homeschol home 
+ classification: [['Education', 0.9999090648005404]]
+------
+Homeschooling3.txt
+develop person homeschol imers le cost comun children aspect age advantag adult home hindranc focu fact experi environ educ learn 
+ classification: [['Education', 0.9999389528575846]]
+------
+Homeschooling4.txt
+team competit year wek time compet apolo task student robot program melvil lego leagu homeschol denmark 
+ classification: [['Education', 0.9999110677482762]]
+------
+Homeschooling5.txt
+home kid children schol schole year famili histori chore educ depart dad percent parent month mom math life karen juli 
+ classification: [['Education', 0.9999927228903385]]
+------
+Language2.txt
+peopl languag way ace someth softwar smartphon schol provid countri ap onlin leson learner interest guatemala fre educ use von 
+ classification: [['Education', 0.9983408435524003]]
+------
+Language3.txt
+languag profici program goal countri comun beter awaren aproach curiculum exposur platform object secondlanguag schol result knowledg skil speak target 
+ classification: [['Education', 0.9999242977285822]]
+------
+Language4.txt
+languag podcast episod your kep inspir im guest gramar format favourit expres cultur convers chanc bit ofer news rang there 
+ classification: [['Education', 0.9982509418929657]]
+------
+Language5.txt
+languag children child asign argument argu aproach adit curiculum complex disciplin difer definit discus display environ experi expr facilit form 
+ classification: [['Education', 0.9982509418929657]]
+------
+archery1.txt
+archeri type bow weight target recurv olymp longbow form distanc compound 
+ classification: [['Sports', 0.998027864240344]]
+------
+archery2.txt
+archeri arow time area ad acord golf game form fod england egyptian efect distanc day cultur cricket comon cla bow 
+ classification: [['Sports', 0.998027864240344]]
+------
+archery3.txt
+archeri step advanc leson learnarcherycom phase explain experi introduc begin instruct inform practic releas techniqu tip understand variat websit help 
+ classification: [['Sports', 0.998027864240344]]
+------
+archery4.txt
+target shot eye concentr bul bow archeri 
+ classification: [['Sports', 0.998027864240344]]
+------
+archery5.txt
+practic target archeri player perform other number mind henc god game form focu difer cours arm shot work train archer 
+ classification: [['Sports', 0.999935669014424]]
+------
+badminton1.txt
+bodi badminton sport play health automaticali 
+ classification: [['Sports', 0.9999429323850002]]
+------
+badminton2.txt
+badminton bodi sport rate racquet player peopl muscl level kep help heart health flow blod improv 
+ classification: [['Sports', 0.9999953372533028]]
+------
+badminton4.txt
+sport badminton bodi play health player time comun bond muscl mobil heart benefit adit 
+ classification: [['Sports', 0.999989925374373]]
+------
+badminton5.txt
+badminton muscl bodi racket work player tone sport shot rate benefit activ minut metabol leg help heart game fun fiber 
+ classification: [['Sports', 0.999989925374373]]
+------
+bicycling1.txt
+generali trip relationship person influenc factor choic bicycl 
+ classification: [['Sports', 0.998712773123637]]
+------
+bicycling2.txt
+life childhod diseas day time kep help health doctor schol result rest reason plan patient part mile crohn condit bodi 
+ classification: [['Education', 0.515723424208184], ['Sports', 0.4822291221878405]]
+------
+bicycling3.txt
+citi bicycl road travel transport world use time stil portland cyclist copenhagen car bike automobil 
+ classification: [['Sports', 0.998712773123637]]
+------
+bicycling4.txt
+bicycl phone car environ thing stret selfreli place other nois multitask life hostil hil gp email climat check cal bodi 
+ classification: [['Sports', 0.998712773123637]]
+------
+bicycling5.txt
+fredom word ride paper mind govern day bicycl atack anyon 
+ classification: [['Sports', 0.998712773123637]]
+------
+football1.txt
+council member reform coment complaint bodi ray problem plan organis muslim motion minor leter kidel kick jew game fsf fa 
+ classification: [['Education', 0.515723424208184], ['Sports', 0.4822291221878405]]
+------
+football2.txt
+dart van gerwen world fotbal chang championship birth take sportsmail ron rockstar robin player play persi money michael mesi make 
+ classification: [['Sports', 0.9987409844558556]]
+------
+football3.txt
+jamaica mori team arena world thompson side panama march goalkep feilhab cup citi campaign 
+ classification: [['Education', 0.515723424208184], ['Sports', 0.4822291221878405]]
+------
+football4.txt
+media england side rfu pre player mention member match manag le interest hospit hapen end director colin chelsea benefit aproach 
+ classification: [['Sports', 0.9987409844558556]]
+------
+football5.txt
+player tactic team play format style striker risk posit poses field defens cup bal atack asoci pase number midfield line 
+ classification: [['Sports', 0.9987409844558556]]
+------
+mathematics1.txt
+schol mathemat educ math standard student state scienc report mathematician knowledg grade goal faculti document develop curiculum content author aproach 
+ classification: [['Education', 0.999992430782042]]
+------
+mathematics2.txt
+educ resourc site inform mathemat math internet page search student link level journal isu databas coverag clearinghous articl ace index 
+ classification: [['Education', 0.9999485269429808]]
+------
+mathematics3.txt
+student instruct math educ disabl aproach model state reform discoveri ace dificulti decad clasrom cla children ideia idea figur fact 
+ classification: [['Education', 0.9999611848333532]]
+------
+mathematics4.txt
+life childhod diseas day time kep help health doctor schol result rest reason plan patient part mile crohn condit bodi 
+ classification: [['Education', 0.515723424208184], ['Sports', 0.4822291221878405]]
+------
+mathematics5.txt
+argument pork decis data contribut busin burgh area adult academi parti ofic level generali group gove rang statist subject univers 
+ classification: [['Sports', 0.9981402847672073]]
+------
+preschool1.txt
+student time children birthday test andersen advantag state parent morn month matur kindergartn kindergarten kid girl educ district cutof cla 
+ classification: [['Education', 0.9999837370461295]]
+------
+preschool3.txt
+educ research polici childhod journal univers topic teacher sourc reader public inform govern parent organ ofer nt depart cutingedg articl 
+ classification: [['Education', 0.9999575838801159]]
+------
+preschool4.txt
+children environ idea exampl activ develop curiculum council clasrom teach system research relationship question preschol learn knowledg teacher way understand 
+ classification: [['Education', 0.515723424208184], ['Sports', 0.4822291221878405]]
+------
+preschool5.txt
+parent educ children year time son skil schol preschol other morn home 
+ classification: [['Education', 0.9999836956945551]]
+------
+scholarship1.txt
+scholarship type peopl achiev academ form gpa schol score basi award interest other time gift fund fulscholarship fre athlet agent 
+ classification: [['Education', 0.573435117265544], ['Sports', 0.4162903977082529]]
+------
+scholarship2.txt
+coleg univers batlefield asumpt clase cours disciplin discoveri efort eye foundat gener god graduat law masachuset mcelroy measur member men 
+ classification: [['Education', 0.9979946113678397]]
+------
+scholarship3.txt
+student program fund award check coleg scholarship state afair fal experi exchang europ depart deadlin comun languag list master member 
+ classification: [['Education', 0.9999917714567518]]
+------
+scholarship4.txt
+student institut scholarship educ faculti partnership outcom learn knowledg kind impact flourish field experi exampl evid condit carer atent atend 
+ classification: [['Education', 0.9999859973435752]]
+------
+scholarship5.txt
+scholarship student type tuition sourc part organ onlin individu fe educ difer coleg 
+ classification: [['Education', 0.9999895226451262]]
+------
+swimming1.txt
+water palm hand breaststrok recoveri practic posit phase bodi arm angl amount action outswep muscl movement motion mind master leg 
+ classification: [['Education', 0.515723424208184], ['Sports', 0.4822291221878405]]
+------
+swimming2.txt
+swimer workout time swim set race practic pace meter endur dawn bodi 
+ classification: [['Education', 0.515723424208184], ['Sports', 0.4822291221878405]]
+------
+swimming3.txt
+exercis research water univers time taner tanaka program presur peopl muscl graviti form air your way bodi benefit 
+ classification: [['Sports', 0.5211533051155132], ['Education', 0.4966646135114181]]
+------
+swimming4.txt
+sport met life your workout team swimer 
+ classification: [['Sports', 0.9982180879271305]]
+------
+swimming5.txt
+calori bodi benefit fitn emerson peopl muscl joint injuri term techniqu work weight reali workout sport way swime place recoveri 
+ classification: [['Sports', 0.9999207406115388]]
+------
+tennis1.txt
+tsonga player set year world wimbledon tour time shot play peopl opon master game final feder doesnt court champion backhand 
+ classification: [['Sports', 0.9999570248290351]]
+------
+tennis2.txt
+drive stroke bodi court bal angl spin sidelin shoulder shot racquet posit line fot forehand 
+ classification: [['Education', 0.515723424208184], ['Sports', 0.4822291221878405]]
+------
+tennis3.txt
+court player teni game varieti tournament sport size racket milion lawn bal 
+ classification: [['Sports', 0.9999926805195867]]
+------
+tennis4.txt
+system player teni sport rule cal inform bal ash arthur comput citi chair exampl hand introduct none noth problem profil 
+ classification: [['Sports', 0.9999873041146632]]
+------
+tennis5.txt
+card year ca slam sharapova sanction rome return program player place month meldonium maria giudic feder face event drug draw 
+ classification: [['Sports', 0.6825003652579062], ['Education', 0.36240618854738504]]
+------

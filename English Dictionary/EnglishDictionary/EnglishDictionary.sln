@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SmallWords", "SmallWords\SmallWords.pyproj", "{A770AA90-6D08-4D84-8D99-EFE37F2622D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A770AA90-6D08-4D84-8D99-EFE37F2622D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A770AA90-6D08-4D84-8D99-EFE37F2622D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35C67545-C6D4-480B-A731-D06B1AE519DA}
+	EndGlobalSection
+EndGlobal
